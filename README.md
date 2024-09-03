@@ -5,5 +5,8 @@
     - AI and ML projects 
     - Neuroimaging tutorials
     - Software development
-- 📫 How to reach me: slusnadominika@icloud.com
+- 📫 How to reach me: 📩 slusnadominika@icloud.com
+                      ⚓️ www.linkedin.com/in/dominika-slusna
+
+
 
