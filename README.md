@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @datarollhexasphericon
 - 🎓 I have a PhD in Clinical Neuroscience of Language 
-- 💼 I am a data scientist seeking to integrate tech and AI into healthcare
+- 💼 I am a AI data scientist seeking to integrate tech and AI into healthcare
 - 👀 What you will find here:
     - AI and ML projects 
     - Neuroimaging tutorials
